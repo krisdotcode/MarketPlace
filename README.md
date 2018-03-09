@@ -5,10 +5,10 @@
 ------------------------------------
 
 ### DeskTop View 
-![Desktop View](https://github.com/krisdotcode/marketplace/screenshots/desktop_view.jpg)
+![Desktop View](https://github.com/krisdotcode/SuperMarket/blob/master/screenshots/desktop_view.jpg)
 
 ### Shopping Cart Modal
-![Shopping Cart](https://github.com/krisdotcode/marketplace/screenshots/shopping_cart.jpg)
+![Shopping Cart](https://github.com/krisdotcode/SuperMarket/blob/master/screenshots/shopping_cart.jpg)
 
 
 -------------------------------------
